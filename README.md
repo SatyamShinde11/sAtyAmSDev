@@ -1,5 +1,3 @@
-<!-- MERN Stack Banner -->
-![MERN Stack Banner]([https://your-banner-image-url.com](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg))
 
 <h1 align="center">Hi 👋, I'm Satyam Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
