@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/satyam_s_dev" target="blank">
+  <a href="https://x.com/sAtyAmSDev" target="blank">
     <img src="https://img.shields.io/twitter/follow/satyam_s_dev?logo=twitter&style=for-the-badge" alt="satyam_s_dev" />
   </a> 
 </p>
