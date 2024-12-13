@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://satyamsdev.github.io/PortFolio/](https://satyamsdev.github.io/PortFolio/)
+- 👨‍💻 All of my projects are available at https://satyam-shinde.vercel.app/
 
 - 💬 Ask me about **Frontend**
 
