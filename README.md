@@ -57,15 +57,7 @@
   
 </div>
 
----
 
-### 💡 Featured Projects
-
-- **[Project Name 1]** - Short description (🔗 [Live Demo](#))
-- **[Project Name 2]** - Short description (🔗 [Live Demo](#))
-- **[Project Name 3]** - Short description (🔗 [Live Demo](#))
-
----
 
 ### 📬 Let's Connect
 
